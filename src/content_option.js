@@ -129,7 +129,8 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
+    Instagram: "https://www.instagram.com/code._with_bilal/"
+    github: "https://github.com/bilaltanveer2/portfoilo",
     facebook: "https://facebook.com",
     linkedin: "https://linkedin.com",
     twitter: "https://twitter.com",
