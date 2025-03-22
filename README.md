@@ -1,6 +1,6 @@
 # 🚀 My Awesome Website
 
-![Website Preview](https://github.com/bilaltanveer2/portfoilo.git)
+![Website Preview](https://portfoilo-olive-omega.vercel.app/)
 
 ## 🌟 Introduction
 Welcome to **My Awesome Website**, a powerful and stylish platform designed for seamless user experience. This website includes **modern UI/UX**, a fully responsive layout, and advanced features tailored for high performance.
